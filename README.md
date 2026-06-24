@@ -37,9 +37,7 @@ An interactive Excel dashboard built using Power Query, Power Pivot, Pivot Table
 - Regional Trends
 - KPI Tracking
 
-🔗 Project Repository: [Add Your GitHub Project Link Here]
-
----
+🔗 Project Repository: [(https://github.com/Jyothsna7979/Sales-performance-analysis)]
 
 ## 🎯 Career Interests
 
@@ -49,18 +47,14 @@ An interactive Excel dashboard built using Power Query, Power Pivot, Pivot Table
 - Business Analyst
 - Business Intelligence
 
----
-
 ## 🌱 What Drives Me
 
 I enjoy solving business problems using data and creating dashboards that help stakeholders make informed decisions.
 
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: [Add Your LinkedIn Profile Link]
-- GitHub: [Add Your GitHub Profile Link]
+- LinkedIn: [https://www.linkedin.com/in/kamanuru-jyothsna-09a92a3a7/?isSelfProfile=true]
+- GitHub: [(https://github.com/Jyothsna7979)]
 
 ---
 
