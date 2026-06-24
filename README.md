@@ -37,7 +37,7 @@ An interactive Excel dashboard built using Power Query, Power Pivot, Pivot Table
 - Regional Trends
 - KPI Tracking
 
-🔗 Project Repository: < a href="https://github.com/Jyothsna7979/Sales-performance-analysis">Superstore sales dashboard</a>
+🔗 Project Repository: <a href="https://github.com/Jyothsna7979/Sales-performance-analysis">Superstore sales Analysis</a>
 
 ## 🎯 Career Interests
 
